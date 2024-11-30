@@ -1,11 +1,6 @@
 # react-hook-form-validators
 You can consolidate your validation rules in a single file or location.
 
-Please also refer to the blog post.
-
-https://wasabee.dev/2023/06/tip-implementation-of-validators-for-react-hook-form/
-
-
 ## Usage
 ### Download
 ```shell
